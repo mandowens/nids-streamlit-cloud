@@ -13,3 +13,4 @@ imbalanced-learn
 xgboost
 pgmpy
 Pillow
+tensorflow==2.18.1
