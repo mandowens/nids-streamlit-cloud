@@ -1,0 +1,17 @@
+streamlit
+streamlit-autorefresh
+openpyxl
+python-docx
+reportlab
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+pgmpy
+Pillow
+shap
+tensorflow
